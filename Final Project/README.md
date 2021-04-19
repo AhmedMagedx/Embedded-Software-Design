@@ -3,15 +3,16 @@
 
 A Full Static and Dynamic design for A system consisting of 2 ECUs communicating to provide some functionalities
 
-Not Completed Yet! 
-
-TODO: 
+## Not Completed Yet! 
 
 
-add Folder structure
+## TODO: 
 
 
-add Sequence digrams
+### add Folder structure
+
+
+### add Sequence digrams
 
 
 ## 1 - Sensors ECU:
