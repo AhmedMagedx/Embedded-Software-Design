@@ -12,7 +12,7 @@ A Full Static and Dynamic design for A system consisting of 2 ECUs communicating
 ### add Folder structure
 
 
-### add Sequence digrams
+### add Sequence diagrams
 
 
 ## 1 - Sensors ECU:
