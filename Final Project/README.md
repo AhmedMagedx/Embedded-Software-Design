@@ -9,7 +9,7 @@ A Full Static and Dynamic design for A system consisting of 2 ECUs communicating
 ## TODO: 
 
 
-### add Folder structure
+### add Folder structure            *added*
 
 
 ### add Sequence diagrams
